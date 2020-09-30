@@ -1831,6 +1831,8 @@ What's more, you've completed your own full data analysis example project:
 
 All of the above are important and common aspects of working with data.
 
+<h2 id="source-code"><a href="https://github.com/CodingNomads/movie-analysis-python-pandas" target="_blank">Source Code on GitHub</h2>
+
 <h2 id="what-next">What Next?</h2>
 
 If you enjoyed this data analysis example and you want to learn more and practice your skills further:
