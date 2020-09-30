@@ -1,0 +1,7 @@
+
+All content published in this repository is under Copyright by CodingNomads.
+
+You are free to view the content and share the officially published versions with others, but we reserve all rights for publishing the content.
+
+The officially published version of this article/repository is located at: https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/ 
+
