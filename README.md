@@ -1,5 +1,5 @@
 
-# Data Analysis Tutorial: Analyzing Movie Ratings with Python
+# Analysis Tutorial: Analyzing Movie Ratings with Python
 
 In this data analysis example, you will analyze a dataset of movie ratings to draw various conclusions. You will learn how to:
 
