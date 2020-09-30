@@ -16,4 +16,4 @@ This tutorial teaches you to perform all of the above tasks using Python and its
 
 #### Author: [Cagdas Yetkin](https://www.linkedin.com/in/cagdasyetkin/) - Contributor: [Martin Bruess](https://martinbreuss.com/)
 
-!(Top Rated Films)[https://raw.githubusercontent.com/CodingNomads/articles/main/movie-tweets/imgs/output_69_0.png]
+![Top Rated Films](https://raw.githubusercontent.com/CodingNomads/articles/main/movie-tweets/imgs/output_69_0.png)
